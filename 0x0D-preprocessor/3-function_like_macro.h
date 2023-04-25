@@ -3,6 +3,4 @@
 
 #define ABS(x) ((x) < (0) ? -(x) : (x))
 
-#endif
-Footer
-© 2023 GitHub, 
+#endif 
